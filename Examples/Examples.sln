@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Examples\Client.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingsAccount", "SavingsAccount\SavingsAccount.csproj", "{2C136A64-3AAB-4E45-8A98-E5083D758B71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightBulb", "LightBulb\LightBulb.csproj", "{B9E57C4A-E3FA-445F-9CF5-EC8C25CB9D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duck", "Duck\Duck.csproj", "{6A7AD3CD-8A06-4274-BE95-FB34ED8469EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2C136A64-3AAB-4E45-8A98-E5083D758B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C136A64-3AAB-4E45-8A98-E5083D758B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C136A64-3AAB-4E45-8A98-E5083D758B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E57C4A-E3FA-445F-9CF5-EC8C25CB9D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E57C4A-E3FA-445F-9CF5-EC8C25CB9D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E57C4A-E3FA-445F-9CF5-EC8C25CB9D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E57C4A-E3FA-445F-9CF5-EC8C25CB9D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7AD3CD-8A06-4274-BE95-FB34ED8469EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7AD3CD-8A06-4274-BE95-FB34ED8469EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7AD3CD-8A06-4274-BE95-FB34ED8469EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7AD3CD-8A06-4274-BE95-FB34ED8469EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
